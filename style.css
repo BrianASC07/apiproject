@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+
+#CNF {
+    background-color: black;
+    color: white;
+    width: 10%;
+    text-align: center;
+    justify-content: center;
+}
